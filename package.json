@@ -3,12 +3,12 @@
   "version": "0.0.0",
   "description": "Nixopus SelfHost",
   "private": true,
-  "cli-version": "0.1.58",
+  "cli-version": "0.1.59",
   "cli-packages": [
-    "nixopus-0.1.58-1.x86_64.rpm",
-    "nixopus_0.1.58_amd64.apk",
     "nixopus.tar",
-    "nixopus_0.1.58_amd64.deb",
-    "nixopus-0.1.58-darwin-arm64.pkg"
+    "nixopus_0.1.59_amd64.apk",
+    "nixopus_0.1.59_amd64.deb",
+    "nixopus-0.1.59-1.x86_64.rpm",
+    "nixopus-0.1.59-darwin-arm64.pkg"
   ]
 }
